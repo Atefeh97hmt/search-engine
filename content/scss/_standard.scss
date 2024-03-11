@@ -1,0 +1,65 @@
+body {
+    font-family: 'iran-sans'!important;
+    box-sizing: border-box;
+    margin: 0;
+    direction: ltr;
+    font-size: 14px;
+    line-height: 24px;
+    background-color: #fff;
+    text-align: left;
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+p {
+    margin: 0
+}
+
+.w-50 {
+    width: 50%
+}
+
+.white-color {
+    color: #fff !important
+}
+
+.black-bg {
+    background-color: #000 !important
+}
+
+.orange-color {
+    color: #ffb923;
+}
+
+.blue-color {
+    color: #2839ce !important
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.ptb-70 {
+    padding: 70px 0;
+}
+
+.mtb-70 {
+    margin: 70px 0;
+}
+
+.z_index {
+    z-index: 1;
+}
+
+.mt-30 {
+    margin-top: 30px
+}
