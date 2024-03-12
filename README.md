@@ -1,5 +1,5 @@
 # Search Engine Web Application
-This is a simple web application for a search engine, inspired by Search Engine Watch. It provides a basic interface for users to search for articles, resources, and tech talks.
+This is a simple web application for a search engine, inspired by Search Engine Watch(https://www.searchenginewatch.com/). It provides a basic interface for users to search for articles, resources, and tech talks.
 
 ## Features
 - Search functionality for finding articles, resources, and tech talks.
