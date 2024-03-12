@@ -1,10 +1,6 @@
 @charset "UTF-8";
-@font-face {
-  font-family: "iran-sans";
-  src: url("../fonts/iran-sans/iran-sans.eot") format("embedded-opentype"), url("../fonts/iran-sans/iran-sans.woff") format("woff"), url("../fonts/iran-sans/iran-sans.ttf") format("truetype");
-}
 body {
-  font-family: "iran-sans" !important;
+  font-family: cursive;
   box-sizing: border-box;
   margin: 0;
   direction: ltr;
@@ -421,6 +417,10 @@ img {
   position: absolute;
 }
 
+a {
+  color: #252525;
+}
+
 .single-post-header {
   margin-bottom: 40px;
 }
@@ -484,7 +484,7 @@ img {
 .navmenu {
   text-align: center;
   width: 100%;
-  height: auto;
+  height: 35px;
   background: #ffffff;
 }
 
@@ -623,12 +623,11 @@ img {
   display: table-cell;
   vertical-align: middle;
   float: none;
-  width: 185px;
 }
 
 .logo {
   width: 180px;
-  height: 180px;
+  height: 80px;
   background-image: url(../images/search-engine-watch-logo.svg);
   background-size: auto auto;
   background-repeat: no-repeat;

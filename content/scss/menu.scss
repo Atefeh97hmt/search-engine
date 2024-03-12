@@ -1,7 +1,7 @@
 .navmenu {
     text-align: center;
     width: 100%;
-    height: auto;
+    height: 35px;
     background: #ffffff;
 }
 
@@ -144,12 +144,11 @@
     display: table-cell;
     vertical-align: middle;
     float: none;
-    width: 185px;
 }
 
 .logo {
     width: 180px;
-    height: 180px;
+    height: 80px;
     background-image: url(../images/search-engine-watch-logo.svg);
     background-size: auto auto;
     background-repeat: no-repeat;
